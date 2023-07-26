@@ -314,7 +314,7 @@ l.banner-input {
 
 .subscribe-btn {
 
-   margin-left: 10px;
+    margin-left: 10px;
     color: #FFF;
     font-size: 20px;
     font-weight: 700;
@@ -323,4 +323,46 @@ l.banner-input {
     background: #E55473;
     padding: 10px 25px;
 
+}
+
+footer {
+    width: 100%;
+    height: 449px;
+    background-color: #111010;
+}
+
+.footer-item {
+    text-align: center;
+    width: 625px;
+    padding-top: 150px;
+    padding-left: 300px;
+
+}
+
+.footer-title {
+    color: #E55473;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 0;
+}
+
+.shop {
+    color: #FFF;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.footer-description {
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+
+}
+
+.cap {
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 12px;
+    font-weight: 400;
 }
